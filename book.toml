@@ -1,0 +1,5 @@
+[book]
+authors = ["WooSeongChoi"]
+language = "en"
+multilingual = false
+src = "src"
